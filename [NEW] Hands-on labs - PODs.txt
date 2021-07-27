@@ -1,0 +1,9 @@
+Access the hands-on labs here:
+
+https://uklabs.kodekloud.com/topic/labs-pods-with-yaml-2/
+
+
+
+Watch the lab solution here:
+
+https://www.youtube.com/watch?v=DFEOdnYw1WY
