@@ -2,7 +2,7 @@
 Code repository for Kubernetes for Absolute Beginners - Hands-on, published by Packt
 
 ### Important Note:
-Kindy refer to the updated Lab links and refer to the instructions given in "Accessing the Hands-on Labs.pdf"  to get started with the labs.  
+Kindy refer to the updated Lab links and refer to the instructions given in "[Accessing the Hands-on Labs.pdf](https://github.com/PacktPublishing/-Kubernetes-for-Absolute-Beginners---Hands-on/blob/master/Accessing%20the%20Hands-on%20Labs.pdf)"  to get started with the labs.  
 
 # Kubernetes for Absolute Beginners - Hands-on
 This is the code repository for [Kubernetes for Absolute Beginners - Hands-on](https://www.packtpub.com/application-development/hands-tensorflow-smart-application-development-video?utm_source=github&utm_medium=repository&utm_campaign=9781788998635), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
