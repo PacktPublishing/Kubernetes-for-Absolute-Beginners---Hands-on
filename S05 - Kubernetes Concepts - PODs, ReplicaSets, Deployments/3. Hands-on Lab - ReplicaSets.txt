@@ -1,0 +1,3 @@
+Access the hands-on lab - ReplicaSets, here:
+
+https://kodekloud.com/topic/labs-replica-sets-2-2/

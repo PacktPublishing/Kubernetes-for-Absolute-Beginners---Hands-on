@@ -1,0 +1,3 @@
+Access the hands-on lab - Deployments, here:
+
+https://kodekloud.com/topic/labs-deployments-2-2/

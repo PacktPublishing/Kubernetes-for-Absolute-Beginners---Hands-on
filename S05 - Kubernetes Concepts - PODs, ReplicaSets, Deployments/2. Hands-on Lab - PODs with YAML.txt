@@ -1,0 +1,3 @@
+Access the hands-on lab - PODs with YAML, here:
+
+https://kodekloud.com/topic/labs-pods-with-yaml-2-2/

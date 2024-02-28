@@ -1,0 +1,3 @@
+Access the hands-on lab - Practice Test Rolling Updates and Rollbacks, here:
+
+https://kodekloud.com/topic/labs-practice-test-rolling-updates-and-rollbacks-2/
