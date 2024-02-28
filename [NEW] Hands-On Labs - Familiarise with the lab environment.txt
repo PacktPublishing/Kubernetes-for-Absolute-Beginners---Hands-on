@@ -1,6 +1,0 @@
-Let's get real!
-
-
-We have real labs for you that will help you get some real hands-on experience. First we start with a basic lab to get you familiarized with the lab environment:
-
-https://uklabs.kodekloud.com/topic/labs-familiarize-with-lab-environment-2/
