@@ -3,4 +3,4 @@ Let's get real!
 
 We have real labs for you that will help you get some real hands-on experience. First we start with a basic lab to get you familiarized with the lab environment:
 
-https://kodekloud.com/topic/labs-familiarize-with-lab-environment-2-2/
+https://learn.kodekloud.com/user/courses/packt-labs-kubernetes-for-absolute-beginners/module/f271a6ba-5430-480e-aad3-98969fa20deb/lesson/52f89cce-7c35-4906-9d7b-e1353c571e70

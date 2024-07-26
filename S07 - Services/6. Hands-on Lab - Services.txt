@@ -1,3 +1,3 @@
 Access the hands-on lab - Services, here:
 
-https://kodekloud.com/topic/labs-services-3-2/
+https://learn.kodekloud.com/user/courses/packt-labs-kubernetes-for-absolute-beginners/module/f271a6ba-5430-480e-aad3-98969fa20deb/lesson/e4cc834c-9548-4b25-bc89-a4d9b0445f9d
