@@ -1,7 +1,3 @@
-Here’s a corrected version of your README file with improved formatting and clarity:
-
----
-
 # Kubernetes for the Absolute Beginners - Hands-On
 
 This is the code repository for [Kubernetes for Absolute Beginners - Hands-On](https://www.packtpub.com/application-development/hands-tensorflow-smart-application-development-video?utm_source=github&utm_medium=repository&utm_campaign=9781788998635), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
@@ -36,7 +32,3 @@ This course is ideal for beginners in IT and software development interested in 
 ### Approach
 
 The course utilizes a practical, hands-on approach, guiding learners through demonstrations and real-world scenarios. Emphasizing active learning through Minikube labs, YAML exercises, and Kubernetes deployments, it ensures effective theory application and skill development in Kubernetes from basics to advanced operations.
-
----
-
-Let me know if there’s anything else you’d like to adjust!
